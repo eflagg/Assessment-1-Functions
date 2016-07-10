@@ -28,7 +28,7 @@ def calculate_item_cost(cost, state, tax = .05):
 	total = cost + (cost * tax)
 	return total
 
-calculate_item_cost(100, "CA")
+#calculate_item_cost(100, "CA") test
 
 #####################################################################
 # PART TWO
